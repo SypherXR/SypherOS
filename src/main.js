@@ -1,3 +1,5 @@
+const a = require('update-electron-app')
+a.updateElectronApp()
 
 //const { shell } = require('electron')
 //shell.openExternal('https://google.com')
